@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+h1 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color:aquamarine;
+text-align: center; }
+
+h4 {border: solid #F2EAEA thin;
+	margin: 12px }
+
+body {
+	background-color: black;
+}
+
+h1,h2,h4,p{color:aquamarine;}

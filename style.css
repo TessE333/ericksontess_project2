@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+
+h1{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: mediumspringgreen;
+	text-align: center;
+}
+
+h2{
+	background-color: aquamarine;
+}
+
+p,h6,h1,h2,pre{
+	color: rgba(146,198,168,1.00);
+		background-color: black;
+}
+
+pre{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+	color:aqua;
+}
+
+img, video, iframe, audio{
+	text-align: center;
+	margin:auto;
+	display: block; 
+}
+
+.abstract{
+	color: chocolate;
+}
+
+.boring{
+	background-color: grey;
+	color: midnightblue;
+	padding: 20px;
+	border: #826FD2;
+	margin: 25px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+/*page 2*/
+
+body {padding: 0;
+	  margin: 0; 
+				}
+
+.placement {
+	position: absolute;
+}
+
+.LEye {
+ left: 485px;
+ top: 878px;
+ width: 154px;
+ z-index: 4;
+ height: 67px; 
+}
+
+.REye {
+	left:899px; 
+	top: 900px;
+	width: 156px;
+	height: 64px;
+	z-index: 6;
+	opacity: o;
+		transition: opacity 0s;
+}
+
+.REye:hover{
+	opacity: 1;
+	
+	
+	
+	
+}
+	
+	
+	
+	
+}
+
+	
+/*
+  width: 154px;
+  height: 67px;
+  z-index: 4;
+} */
+
+
+
+
+
+
+
+
